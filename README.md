@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathuraka Tharushan</h1>
-<h3 align="center">Undergraduate Student of Open University of Sri Lanka</h3>
+<h3 align="center">I am an undergraduate student at the Open University of Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurakat&label=Profile%20views&color=0e75b6&style=flat" alt="chathurakat" /> </p>
 
